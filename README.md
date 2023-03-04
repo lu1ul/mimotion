@@ -1,5 +1,5 @@
 # mimotion
-小米运动刷步数 原github Squaregentleman被封 为了不耽误你们正常fork 我开了新号
+小米运动刷步数
 # 小米运动自动刷步数
 
 > 小米运动自动刷步数
@@ -67,10 +67,3 @@
 
 9. 请注意，账号不是 [小米账号]，而是 [小米运动] 的账号。
 
-## 纪念一下往日的辉煌
-
-[![](https://i.loli.net/2021/11/19/BLi5cpjPSxh7Am2.png)](https://i.loli.net/2021/11/19/BLi5cpjPSxh7Am2.png)
-
-## 历史Star数
-
-[![Stargazers over time](https://starchart.cc/577fkj/mimotion.svg)](https://starchart.cc/577fkj/mimotion)
